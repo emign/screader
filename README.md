@@ -6,4 +6,4 @@ Work in progress
 
 ## How to get the needed IDs
 
-![screenshotHowToGetIDs](https://imgur.com/OHBYiiX)
+![screenshotHowToGetIDs](https://imgur.com/OHBYiiX.png)
