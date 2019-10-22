@@ -4,7 +4,7 @@ A bash script to read out the data from the pana smartcloud
 
 Work in progress
 
-## Prerrequisites
+## Prerequisites
 
 * [JQ](https://stedolan.github.io/jq/download/)
 
