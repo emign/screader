@@ -1,0 +1,132 @@
+{
+	"function-status-text-005" :{
+		"desc"		: "Betrieb",
+		"fstext" 	: "function-status-text-005",
+		"textID"	: "2006-0110"
+	},
+	"function-status-text-007" :{
+		"desc"		: "Betriebsart",
+		"fstext" 	: "function-status-text-007",
+		"textID"	: "2006-0120"
+	},
+	"function-status-text-011" :{
+		"desc"		: "Wasservorlauftemperatur",
+		"fstext" 	: "function-status-text-011",
+		"textID"	: "2006-0140"
+	},
+	"function-status-text-009" :{
+		"desc"		: "Wasserrücklauftemperatur",
+		"fstext" 	: "function-status-text-009",
+		"textID"	: "2006-0130"
+	},
+	"function-status-text-013" :{
+		"desc"		: "TemperaturHK1IST",
+		"fstext" 	: "function-status-text-013",
+		"textID"	: "2006-0150"
+	},
+	"function-status-text-015" :{
+		"desc"		: "TemperaturHK1SOLL",
+		"fstext" 	: "function-status-text-015",
+		"textID"	: "2006-0140"
+	},
+	"function-status-text-017" :{
+		"desc"		: "WassertempHK1",
+		"fstext" 	: "function-status-text-017",
+		"textID"	: "2006-0170"
+	},
+	"function-status-text-019" :{
+		"desc"		: "WasserVLTemp",
+		"fstext" 	: "function-status-text-019",
+		"textID"	: "2006-0140"
+	},
+	"function-status-text-021" :{
+		"desc"		: "WasserVLTemp",
+		"fstext" 	: "function-status-text-021",
+		"textID"	: "2006-0140"
+	},
+	"function-status-text-025" :{
+		"desc"		: "WarmwasserspeicherIST",
+		"fstext" 	: "function-status-text-025",
+		"textID"	: "2006-01B0"
+	},
+	"function-status-text-027" :{
+		"desc"		: "WarmwasserspeicherSOLL",
+		"fstext" 	: "function-status-text-027",
+		"textID"	: "2006-01B0"
+	},
+	"function-status-text-031" :{
+		"desc"		: "Außentemperatur",
+		"fstext" 	: "function-status-text-031",
+		"textID"	: "2006-01E0"
+	},
+	"function-status-text-033" :{
+		"desc"		: "Anforderung",
+		"fstext" 	: "function-status-text-033",
+		"textID"	: "2006-0600"
+	},
+	"function-status-text-035" :{
+		"desc"		: "Wasservolumenstrom",
+		"fstext" 	: "function-status-text-035",
+		"textID"	: "2006-0610"
+	},
+	"function-status-text-037" :{
+		"desc"		: "Pumpendrehzahl",
+		"fstext" 	: "function-status-text-037",
+		"textID"	: "2006-0620"
+	},
+	"function-status-text-039" :{
+		"desc"		: "Dreiwegeventil",
+		"fstext" 	: "function-status-text-039",
+		"textID"	: "2006-0630"
+	},
+	"function-status-text-041" :{
+		"desc"		: "EHeizstabHeizung",
+		"fstext" 	: "function-status-text-041",
+		"textID"	: "2006-0640"
+	},
+	"function-status-text-043" :{
+		"desc"		: "EHeizstabWW",
+		"fstext" 	: "function-status-text-043",
+		"textID"	: "2006-0650"
+	},
+	"function-status-text-045" :{
+		"desc"		: "Abtauung",
+		"fstext" 	: "function-status-text-045",
+		"textID"	: "2006-0660"
+	},
+	"function-status-text-053" :{
+		"desc"		: "Stoerung",
+		"fstext" 	: "function-status-text-053",
+		"textID"	: "2006-06A0"
+	},
+	"function-status-text-056" :{
+		"desc"		: "Verdichterfrequenz",
+		"fstext" 	: "function-status-text-056",
+		"textID"	: "2006-0C10"
+	},
+	"function-status-text-058" :{
+		"desc"		: "Betriebsdauer",
+		"fstext" 	: "function-status-text-058",
+		"textID"	: "2006-0C20"
+	},
+	"function-status-text-060" :{
+		"desc"		: "Verdichterstarts",
+		"fstext" 	: "function-status-text-060",
+		"textID"	: "2006-0C30"
+	},
+	"function-status-text-063" :{
+		"desc"		: "LeistungEHeizstab",
+		"fstext" 	: "function-status-text-063",
+		"textID"	: "2006-0D10"
+	},
+	"function-status-text-065" :{
+		"desc"		: "BetriebsstundenEHeizstabHeizung",
+		"fstext" 	: "function-status-text-065",
+		"textID"	: "2006-0D20"
+	},
+	"function-status-text-068" :{
+		"desc"		: "BetriebsstundenEHeizstabHeizung",
+		"fstext" 	: "function-status-text-068",
+		"textID"	: "2006-0E10"
+	}
+}
