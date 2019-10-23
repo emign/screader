@@ -9,7 +9,8 @@ userID=""
 
 # The regular login-name for the service portal
 username=""
-# The password is a hashed and probably salted string. Find it from the website Source
+# The password is a the md5 hash from the concatenation of the username and the password (no spaces)
+# use e.g. https://www.md5-generator.de/ to find it
 password=""
 
 
