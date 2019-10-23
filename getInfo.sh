@@ -10,6 +10,9 @@ userID=""
 # The regular login-name for the service portal
 username=""
 # The password is a the md5 hash from the concatenation of the username and the password (no spaces)
+# So if your username is aquareaUser and your pw is lovelypana then you have to create the md5 hash
+# from aquareaUserlovelypana and enter it here.
+# I might add an algorithm to do that in the future
 # use e.g. https://www.md5-generator.de/ to find it
 password=""
 
